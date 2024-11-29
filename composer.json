@@ -1,0 +1,19 @@
+{
+    "name": "yuwanqiao/yuwanqiao-sdk",
+    "description": "这是一个测试composer包",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yuwanqiao\\YuwanqiaoSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wanqiao Yu",
+            "email": "yuwanqiao888@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
